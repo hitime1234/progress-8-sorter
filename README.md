@@ -5,7 +5,7 @@ it can rank in order of schools using a csv file from the uk goverment.
 
 it can search through the csv and find the progress 8 score average.
 
-it can find the rank on specific school.
+it can find the rank of specific school.
 
 # note
 you MUST HAVE THE CSV FOR THIS.
