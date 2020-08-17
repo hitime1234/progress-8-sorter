@@ -10,7 +10,7 @@ it can find the rank of specific school.
 # note
 you MUST HAVE THE CSV FOR THIS.
 
-THE one tested is ks4 final from 2018-2019 school year
+the one tested is ks4 final from 2018-2019 school year
 CSV file can be obtained here:
 https://www.compare-school-performance.service.gov.uk/download-data?currentstep=datatypes&regiontype=all&la=0&downloadYear=2018-2019&datatypes=ks4&datatypes=ks4mats
 
